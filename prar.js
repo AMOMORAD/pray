@@ -1,0 +1,1 @@
+<iframe height="509" width="100%" style="background:#f8f8f8;border: 1px solid #eee;" src="http://prayertimes.today/embed/?city=158&azan=false&time=true&intro=true&next-prayer=true&remove-link=false&width=100%&lang=ar&color=335E91"></iframe>
